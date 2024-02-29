@@ -5,5 +5,8 @@ int main ()
      cout<<"faizan ahmed";
      cout<<"23-st-043";
      cout<<"the addition of two number are:"<<a+b<<endl;
+     cout<<"the subtraction of two number are:"<<a-b<<endl;
+     cout<<"the multiplicatipon of two number are:"<<a*b<<endl;
+     cout<<"the division of two number are:"<<a/b<<endl;
 return 0;
 }
