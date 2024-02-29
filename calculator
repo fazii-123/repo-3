@@ -1,0 +1,8 @@
+#inclube<iostream>
+using namespace std;
+int main ()
+{
+     cout<<"faizan ahmed";
+     cout<<"23-st-043";
+return 0;
+}
